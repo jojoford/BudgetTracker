@@ -28,3 +28,9 @@ background_color
 start_url
 
 display
+
+
+Deployed on Heroku: https://desolate-shelf-07150.herokuapp.com/
+
+Contributors:
+Thanks to Chadilac78
